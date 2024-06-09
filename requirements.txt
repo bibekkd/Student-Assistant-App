@@ -1,0 +1,10 @@
+streamlit
+openai
+pymongo
+pandas
+azure-storage-blob
+pytesseract
+Pillow
+moviepy
+pytube
+openai-whisper
